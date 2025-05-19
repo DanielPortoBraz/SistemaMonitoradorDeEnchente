@@ -98,6 +98,11 @@ O binário pode ser carregado no simulador ou no dispositivo físico.
 
 ---
 
+## Vídeo de Demonstração
+https://youtube.com/playlist?list=PLaN_cHSVjBi_m0DAswwM6nGfoLITAjAqo&si=9MxXw8a5lHTSlOlo
+
+---
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
